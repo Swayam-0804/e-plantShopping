@@ -1,3 +1,7 @@
+# e-plantShopping — Paradise Nursery
+
+**Project Name:** e-plantShopping
+
 # Paradise Nursery — React Plant Shopping Application
 
 Paradise Nursery is a responsive demo e-commerce storefront for indoor plants, built with **React, Vite, Redux Toolkit, and React Redux**. It includes a welcoming landing page, an About Us page, a searchable plant catalog organized into three categories, and a fully interactive shopping cart.
