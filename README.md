@@ -1,9 +1,9 @@
-# e-plantShopping
+# Paradise Nursery — React Plant Shopping Application
 
 Paradise Nursery is a responsive demo e-commerce storefront for indoor plants, built with **React, Vite, Redux Toolkit, and React Redux**. It includes a welcoming landing page, an About Us page, a searchable plant catalog organized into three categories, and a fully interactive shopping cart.
 
 ## Project Name
-**e-plantShopping — Paradise Nursery Shopping Application**
+**Paradise Nursery — Online Plant Shop**
 
 ## Features
 - Landing page with Paradise Nursery branding, background photograph, and **Get Started** button
@@ -50,9 +50,9 @@ npm run preview
 | Q7 | `src/CartItem.jsx` | Shopping cart, quantities, totals, deletion and checkout |
 
 ## GitHub Submission
-Create a **public** GitHub repository and push all files. Replace `YOUR_USERNAME` and `paradise-nursery` in the URLs with your own GitHub username and repo name. If your branch is not named `main`, replace `main` with the actual branch name.
+Create a **public** GitHub repository and push all files. Replace `YOUR_USERNAME` and `e-plantShopping` in the URLs with your own GitHub username and repo name. If your branch is not named `main`, replace `main` with the actual branch name.
 
-Example: `https://github.com/YOUR_USERNAME/paradise-nursery/blob/main/src/CartItem.jsx`
+Example: `https://github.com/YOUR_USERNAME/e-plantShopping/blob/main/src/CartItem.jsx`
 
 ## Notes
 This is a demo shop: the checkout button intentionally displays a message and **does not process payment**. Product photography is fetched from Unsplash and requires an internet connection. Cart state is kept in memory and resets on a page refresh. Product names/prices are demo sample data. No backend is required.
